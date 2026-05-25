@@ -1,0 +1,62 @@
+{
+  "job_id": "api_8005c630926142bda8287667",
+  "mode": "zip_split",
+  "file_url": "https://free-dl7.myalphadl.com/nI2Hh2QhyVyh1GxWyicG3w/Euphoria.Us.S03E07.720p.FENiX.AlphaDL.mkv",
+  "suggested_filename": "Euphoria.Us.S03E07.720p.FENiX.AlphaDL.mkv",
+  "total_size_bytes": 856279736,
+  "created_at_utc": "2026-05-25T08:14:36.007482+00:00",
+  "zip_folder": "jobs/api_8005c630926142bda8287667/zip",
+  "zip_main_file": "Euphoria.Us.S03E07.720p.FENiX.AlphaDL_split.zip",
+  "zip_parts": [
+    {
+      "name": "Euphoria.Us.S03E07.720p.FENiX.AlphaDL_split.z01",
+      "path": "jobs/api_8005c630926142bda8287667/zip/Euphoria.Us.S03E07.720p.FENiX.AlphaDL_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Euphoria.Us.S03E07.720p.FENiX.AlphaDL_split.z02",
+      "path": "jobs/api_8005c630926142bda8287667/zip/Euphoria.Us.S03E07.720p.FENiX.AlphaDL_split.z02",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Euphoria.Us.S03E07.720p.FENiX.AlphaDL_split.z03",
+      "path": "jobs/api_8005c630926142bda8287667/zip/Euphoria.Us.S03E07.720p.FENiX.AlphaDL_split.z03",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Euphoria.Us.S03E07.720p.FENiX.AlphaDL_split.z04",
+      "path": "jobs/api_8005c630926142bda8287667/zip/Euphoria.Us.S03E07.720p.FENiX.AlphaDL_split.z04",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Euphoria.Us.S03E07.720p.FENiX.AlphaDL_split.z05",
+      "path": "jobs/api_8005c630926142bda8287667/zip/Euphoria.Us.S03E07.720p.FENiX.AlphaDL_split.z05",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Euphoria.Us.S03E07.720p.FENiX.AlphaDL_split.z06",
+      "path": "jobs/api_8005c630926142bda8287667/zip/Euphoria.Us.S03E07.720p.FENiX.AlphaDL_split.z06",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Euphoria.Us.S03E07.720p.FENiX.AlphaDL_split.z07",
+      "path": "jobs/api_8005c630926142bda8287667/zip/Euphoria.Us.S03E07.720p.FENiX.AlphaDL_split.z07",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Euphoria.Us.S03E07.720p.FENiX.AlphaDL_split.z08",
+      "path": "jobs/api_8005c630926142bda8287667/zip/Euphoria.Us.S03E07.720p.FENiX.AlphaDL_split.z08",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Euphoria.Us.S03E07.720p.FENiX.AlphaDL_split.z09",
+      "path": "jobs/api_8005c630926142bda8287667/zip/Euphoria.Us.S03E07.720p.FENiX.AlphaDL_split.z09",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Euphoria.Us.S03E07.720p.FENiX.AlphaDL_split.zip",
+      "path": "jobs/api_8005c630926142bda8287667/zip/Euphoria.Us.S03E07.720p.FENiX.AlphaDL_split.zip",
+      "size_bytes": 6933412
+    }
+  ]
+}
